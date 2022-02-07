@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AnujKondhalkar
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python Git HTML Django 
+- 🌱 I’m currently learning ... Python Git HTML Flask
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
